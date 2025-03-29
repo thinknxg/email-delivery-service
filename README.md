@@ -23,7 +23,7 @@ A plug and play email delivery service for Frappe Cloud.
 
 #### Screenshots
 
-![Screenshot 2022-01-17 at 1 06 07 PM](https://user-images.githubusercontent.com/50401596/149731329-b0b68405-8a8c-4aa2-86e0-7fc98d798f3c.png)
+![https://thinknxg.com/wp-content/uploads/2025/03/email-delivery-service.png)
 
 
 #### License
