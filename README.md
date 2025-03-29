@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://frappecloud.com/files/email-delivery-service%20(1).png" style="height:128px;border-radius:25px;">
+    <img src="https://thinknxg.com/wp-content/uploads/2025/03/email-delivery-service.png" style="height:128px;border-radius:25px;">
     <h2>Email Delivery Sevice</h2>
 </div>
 
-A plug and play email delivery service for Frappe Cloud.
+A plug and play email delivery service for thinkNXG Cloud.
 
 #### Features
 1. Requires no additional setup
@@ -19,7 +19,7 @@ A plug and play email delivery service for Frappe Cloud.
 * After installing you should see these keys in your site config section on thinkNXG Cloud. If you don't see this you can add them manually and you are good to go. 
 * If you already have some other account setup for outgoing emails on your site you don't need to worry about setting this up.
 
-
+https://thinknxg.com/wp-content/uploads/2025/03/email-delivery-service-2.png
 
 #### Screenshots
 
