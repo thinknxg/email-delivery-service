@@ -22,12 +22,7 @@ A plug and play email delivery service for thinkNXG Cloud.
 https://thinknxg.com/wp-content/uploads/2025/03/email-delivery-service-2.png
 
 #### Screenshots
-<div align="center">
-    <img src="https://thinknxg.com/wp-content/uploads/2025/03/email-delivery-service-2.png" style="height:128px;border-radius:128px;">
-    <h2>Email Delivery Sevice</h2>
-</div>
-
-
+<img src="https://thinknxg.com/wp-content/uploads/2025/03/email-delivery-service-2.png"/>
 
 
 #### License
