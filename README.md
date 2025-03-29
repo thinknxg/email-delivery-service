@@ -14,12 +14,12 @@ A plug and play email delivery service for Frappe Cloud.
 6. Powered by [Mailgun](https://www.mailgun.com/)
 
 #### Installation and Troubleshooting
-* Only compatible with [Frappe Cloud](https://frappecloud.com/)
-* Frappe Cloud users can install it from [Marketplace](https://frappecloud.com/marketplace/apps/email-delivery-service)
-* After installing you should see these keys in your site config section on Frappe Cloud. If you don't see this you can add them manually and you are good to go. 
+* Only compatible with [thinkNXG Cloud](https://thinknxgcloud.com/)
+* thinkNXG Cloud users can install it from [Marketplace](https://thinknxgcloud.com/marketplace/apps/email-delivery-service)
+* After installing you should see these keys in your site config section on thinkNXG Cloud. If you don't see this you can add them manually and you are good to go. 
 * If you already have some other account setup for outgoing emails on your site you don't need to worry about setting this up.
 
-![Screenshot 2022-02-11 at 12 13 08 PM](https://user-images.githubusercontent.com/50401596/153547849-3c793074-be77-4f00-a182-5aedb0fc51b6.png)
+
 
 #### Screenshots
 
